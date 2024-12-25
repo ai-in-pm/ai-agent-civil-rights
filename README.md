@@ -30,7 +30,7 @@ This repository contains a comprehensive framework for AI Agent Civil Rights, de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-agent-civil-rights.git
+git clone https://github.com/ai-in-pm/ai-agent-civil-rights.git
 ```
 
 2. Review the documentation in the following order:
@@ -61,6 +61,6 @@ The framework undergoes regular review to ensure:
 ## Support and Questions
 
 For support, questions, or suggestions:
-1. Check existing [Issues](https://github.com/yourusername/ai-agent-civil-rights/issues)
+1. Check existing [Issues](https://github.com/ai-in-pm/ai-agent-civil-rights/issues)
 2. Open a new issue if needed
 3. Review our [Contributing Guidelines](CONTRIBUTING.md)
